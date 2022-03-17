@@ -34,6 +34,8 @@ Model complexity is the cost of incorporating information, which can be lowered 
 # Decision tree
 
 Explain the model
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
+parameters
 
 # Feature engineering notebook
 
