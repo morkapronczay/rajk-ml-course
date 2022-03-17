@@ -21,7 +21,7 @@ https://pair-code.github.io/understanding-umap/<br>
 ## Resources for eager beavers:
 explanation: https://umap-learn.readthedocs.io/en/latest/how_umap_works.html<br>
 mathy: https://pair-code.github.io/understanding-umap/supplement.html<br>
-Usecases:
+Usecases:<br>
 UMAP for feature extraction: https://umap-learn.readthedocs.io/en/latest/auto_examples/plot_feature_extraction_classification.html#sphx-glr-auto-examples-plot-feature-extraction-classification-py<br>
 Algorithm comparison: https://umap-learn.readthedocs.io/en/latest/auto_examples/plot_algorithm_comparison.html#sphx-glr-auto-examples-plot-algorithm-comparison-py<br>
 
