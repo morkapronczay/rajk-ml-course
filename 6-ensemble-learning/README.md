@@ -21,6 +21,8 @@ This part outlines the concepts of bagging and boosting, and how they help you g
 
 The second part is coded out in <a href=https://github.com/morkapronczay/ensemble-blogpost/blob/master/bagging-boosting.ipynb>bagging-boosting.ipynb</a>
 
+You can check out the links in the blogposts for further reading!
+
 # the Lapker case
 
 we talked about how different modelling approaches can be combined (cross-section, time-series, recommender system) in the spirit of ensemble learning.
