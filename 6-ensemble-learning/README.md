@@ -4,6 +4,7 @@ check <a href=https://github.com/morkapronczay/rajk-ml-course/blob/main/6-ensemb
 
 # Condorcet Jury Theorem
 
+
 another aspect of ensemble learning, check <a href=https://github.com/morkapronczay/rajk-ml-course/blob/main/6-ensemble-learning/Condorcet-Jury-Theorem.ipynb>notebook</a>.
 
 # ensemble-blogpost
