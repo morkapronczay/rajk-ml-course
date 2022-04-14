@@ -33,7 +33,7 @@ Check notebooks in this folder.
 - <a href=https://arxiv.org/pdf/1609.04747.pdf>gradient descent algorithm</a>
 - <a href=https://arxiv.org/abs/1502.03167>BatchNorm</a>
 - <a href=https://jmlr.org/papers/v15/srivastava14a.html>Dropout</a>
-- Resnet architecture (<a href=https://arxiv.org/abs/1512.03385>paper</a>, < href=https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8>good blogpost</a>) and the vanishing gradient problem
+- Resnet architecture (<a href=https://arxiv.org/abs/1512.03385>paper</a>, <a href=https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8>good blogpost</a>) and the vanishing gradient problem
 - <a href=https://arxiv.org/abs/1505.04597>UNet architecture</a>
 
 
