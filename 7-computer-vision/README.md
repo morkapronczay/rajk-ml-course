@@ -6,7 +6,7 @@
 
 This <a href=https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson1-pets.ipynb>notebook</a> is ~2 years old.
 
-<a href=https://paperswithcode.com/sota/fine-grained-image-classification-on-oxford-1?metric=Top-1%20Error%20Rate>State of the art</a> is really close even now.
+<a href=https://paperswithcode.com/sota/fine-grained-image-classification-on-oxford-1>State of the art </a> is really close even now.
 
 ### Image segmentation on <a href=http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/>camvid</a> dataset
 
@@ -31,6 +31,8 @@ The latest version of the course and notebooks (as of 2022-04-14) is available <
 - <a href=https://arxiv.org/pdf/1609.04747.pdf>gradient descent algorithm</a>
 - <a href=https://arxiv.org/abs/1502.03167>BatchNorm</a>
 - <a href=https://jmlr.org/papers/v15/srivastava14a.html>Dropout</a>
+- <a href=https://arxiv.org/abs/1512.03385>Resnet architecture</a>
+- <a href=https://arxiv.org/abs/1505.04597>UNet architecture</a>
 
 
 
