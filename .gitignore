@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data not to include
+5-dbscan-umap-feature-engineering-decision-tree/data
+5-dbscan-umap-feature-engineering-decision-tree/homework
+5-dbscan-umap-feature-engineering-decision-tree/output
+
