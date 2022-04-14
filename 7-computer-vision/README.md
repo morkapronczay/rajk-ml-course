@@ -23,6 +23,8 @@ The latest version of the course and notebooks (as of 2022-04-14) is available <
 - Dense Neural Networks
 - Convolutional Neural Networks
 
+Check notebooks in this folder.
+
 ### Important concepts & architectures
 
 - <a href=https://cognitivemedium.com/magic_paper/assets/Hornik.pdf>Universal Approximation Theorem</a>
